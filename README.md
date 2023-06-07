@@ -53,7 +53,8 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./out3.png)
+![out 3](https://github.com/MohamedMunthasir/django-orm-app/assets/121957086/869e4a41-1539-4b05-a0c9-4013001fc9a9)
+
 
 ## Verifying Primary-Key
 
